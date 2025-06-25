@@ -1,0 +1,21 @@
+{
+  "appTitle": "युवती",
+  "letsSetYourLanguage": "आइए अपनी भाषा सेट करें",
+  "start": "शुरू करें",
+  "selectedLanguage": "चयनित: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "@language लोड करने में विफल",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "होम",
+  "myOrders": "मेरे ऑर्डर",
+  "results": "परिणाम",
+  "cart": "कार्ट"
+}

@@ -1,0 +1,21 @@
+{
+  "appTitle": "യുവതി",
+  "letsSetYourLanguage": "നിന്റെ ഭാഷ സെറ്റ് ചെയ്യാം",
+  "start": "തുടങ്ങുക",
+  "selectedLanguage": "തിരഞ്ഞെടുത്തത്: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "@language ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "ഹോം",
+  "myOrders": "എന്റെ ഓർഡറുകൾ",
+  "results": "ഫലങ്ങൾ",
+  "cart": "കാർട്ട്"
+}

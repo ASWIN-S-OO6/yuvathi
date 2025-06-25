@@ -1,0 +1,21 @@
+{
+  "appTitle": "ಯುವತಿ",
+  "letsSetYourLanguage": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಹೊಂದಿಸೋಣ",
+  "start": "ಪ್ರಾರಂಭಿಸಿ",
+  "selectedLanguage": "ಆಯ್ಕೆಯಾಗಿದೆ: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "@language ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "ಮುಖಪುಟ",
+  "myOrders": "ನನ್ನ ಆರ್ಡರ್‌ಗಳು",
+  "results": "ಫಲಿತಾಂಶಗಳು",
+  "cart": "ಕಾರ್ಟ್"
+}

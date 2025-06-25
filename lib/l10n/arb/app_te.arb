@@ -1,0 +1,21 @@
+{
+  "appTitle": "యువతి",
+  "letsSetYourLanguage": "మీ భాషను సెట్ చేద్దాం",
+  "start": "ప్రారంభించండి",
+  "selectedLanguage": "ఎంచుకోబడినది: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "@language లోడ్ చేయడంలో విఫలమైంది",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "హోమ్",
+  "myOrders": "నా ఆర్డర్లు",
+  "results": "ఫలితాలు",
+  "cart": "కార్ట్"
+}

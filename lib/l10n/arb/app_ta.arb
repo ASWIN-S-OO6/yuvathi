@@ -1,0 +1,21 @@
+{
+  "appTitle": "யுவதி",
+  "letsSetYourLanguage": "உங்கள் மொழியை அமைப்போம்",
+  "start": "தொடங்கு",
+  "selectedLanguage": "தேர்ந்தெடுக்கப்பட்டது: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "@language ஐ ஏற்ற முடியவில்லை",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "முகப்பு",
+  "myOrders": "எனது ஆர்டர்கள்",
+  "results": "முடிவுகள்",
+  "cart": "கூடை"
+}

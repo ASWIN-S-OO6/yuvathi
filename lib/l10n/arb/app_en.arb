@@ -1,0 +1,21 @@
+{
+  "appTitle": "Yuvathi",
+  "letsSetYourLanguage": "Let's Set Your Language",
+  "start": "Start",
+  "selectedLanguage": "Selected: @language",
+  "@selectedLanguage": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "failedToLoad": "Failed to load @language",
+  "@failedToLoad": {
+    "placeholders": {
+      "language": {}
+    }
+  },
+  "home": "Home",
+  "myOrders": "My Orders",
+  "results": "Results",
+  "cart": "Cart"
+}
